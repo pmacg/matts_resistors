@@ -10,7 +10,7 @@ I've only tested on Linux, but I'm not aware of any reason why these instruction
 
 ## Python 3
 - pip install -r requirements.txt
-- Set the following environment details with your apps twitter API secrets. (See [the Twitter docs](https://developer.twitter.com/en/docs/basics/getting-started))
+- Set the following environment variables with your twitter API credentials. (See [the Twitter docs](https://developer.twitter.com/en/docs/basics/getting-started))
   - TWITTER_CONSUMER_KEY
   - TWITTER_CONSUMER_SECRET
   - TWITTER_ACCESS_TOKEN

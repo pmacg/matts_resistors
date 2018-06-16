@@ -92,7 +92,7 @@ def manual_intervention(tweet):
   print("\n\nTweet\n-----\n%s\n" % (tweet.text))
   answer = None
   while answer is None:
-    response = input("If the above tweet contains an answer, enter it here (otherwise hit enter): ")
+    response = input("If the above tweet contains an guess, enter it here (otherwise just hit enter): ")
     
     if not response:
       # The input was left blank, and so the tweet doesn't contain a guess

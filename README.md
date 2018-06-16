@@ -15,7 +15,11 @@ I've only tested on Linux, but I'm not aware of any reason why these instruction
   - TWITTER_ACCESS_TOKEN
   - TWITTER_ACCESS_TOKEN_SECRET
 - python resistors.py
+- The script is interactive and will ask for user input on tweets it cannot parse automatically. Simply follow the on-screen instructions.
 
 ## Python 2
 - Install Python 3 https://www.python.org/downloads/
 - Follow the instructions in the 'Python 3' section
+
+# Output
+The script will generate a file (output.txt) with a sorted list of gueses.
